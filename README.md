@@ -2,20 +2,20 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 
-## Uso de graficas ng2-charts
+## Uso de gráficas ng2-charts
 
 ```
 - Gráficas de Barra
 - Gráficas de Doughnut
-- Gráficas de Doughnut usando peticion http
+- Gráficas de Doughnut usando petición http
 ```
 
 
-## Uso de graficas ng2-charts
+## Uso de gráficas ng2-charts
 
 
 ```
-Para levantar la aplicacion es necesario tener instalado JsonServer de manera global:
+Para levantar la aplicación es necesario tener instalado JsonServer de manera global:
      - npm i -g json-server
 
   - 1º Abrir en consola la carpeta Api.
