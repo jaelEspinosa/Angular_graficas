@@ -23,3 +23,8 @@ Para levantar la aplicación es necesario tener instalado JsonServer de manera g
         - json-server --watch db.json
 
   - Ya tenemos el servidor corriendo en el puerto 3000 para poder usar las gráficas      
+
+```
+
+
+<img src='./src/assets/img/Captura%20de%20pantalla%202023-04-18%20100315.jpg' width='500' height='300' >
